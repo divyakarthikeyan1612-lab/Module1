@@ -12,8 +12,21 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+```
+c = complex(4, 6)   # 4 + 6j
+print(c)
+```
+```
+real = int(input("Enter real part: "))
+imag = int(input("Enter imaginary part: "))
+
+c = complex(real, imag)
+print("Complex number is:", c)
+```
 
 ## Output
+<img width="1166" height="389" alt="image" src="https://github.com/user-attachments/assets/1225a9a8-0384-43b8-a785-a9c18e3dbbed" />
+<img width="1337" height="541" alt="image" src="https://github.com/user-attachments/assets/363826a7-1a86-470e-b50b-4554c85e2060" />
 
 ## Result
+the code is verified.
