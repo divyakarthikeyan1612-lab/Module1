@@ -15,7 +15,17 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+```
+a = 10
+b = 5
 
+print(a > b)      
+print(a == b)     
+print(a != b)     
+print(a < b)
+```
 ## Output
+<img width="1213" height="399" alt="image" src="https://github.com/user-attachments/assets/84f2a981-18f1-4f52-81d0-636b17451c94" />
+
 ## Result
+the output of the code is verified in python compiler and the output is attached.
